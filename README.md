@@ -4,7 +4,7 @@ a 404 example for front end
 
 ## Content
 
-* [Demo 1](https://www.macnexxa.com/demo_1/demo/)
+* [Demo 1](https://404.macnexxa.com/demo_1/demo/)
 * ~~demo2~~ to be continue.
 * ~~demo3~~ to be continue.
 
